@@ -9,6 +9,6 @@ I started keeping my learning history at Day5 on May 5th.
 #### Day#6 (May 6th)
 
 - [ ] JS The Advanced Concepts: 6 - 12
-- [ ] The Conding Interview Bootcamp: String Reversal
+- [x] The Conding Interview Bootcamp: String Reversal
 - [ ] アルゴリズムとデータ構造: 計算量とオーダー記法
 - [ ] go 文法の復習
