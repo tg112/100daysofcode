@@ -12,3 +12,8 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 - `reduce`: 第二引数が初期値で、初期値に対して第一引数の値を処理する。
 
 なるべく `for(let i = 0; i < a.length; i++){}`の形は避ける。`for of`や`for in`を使用して複雑性を避ける
+
+##### palindrome
+
+- `every`: 配列が条件が全て ture の場合、true を返す
+- `some`: 配列が条件を一つ以上満たしていれば true を返す
