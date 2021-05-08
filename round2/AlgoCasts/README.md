@@ -17,3 +17,7 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 
 - `every`: 配列が条件が全て ture の場合、true を返す
 - `some`: 配列が条件を一つ以上満たしていれば true を返す
+
+##### int reverse
+
+- `Math.sing(n)`: パラーメータの数値が＋の時 1 を、-の時に-1 を返す。
