@@ -21,3 +21,12 @@ Companion repo to [The Coding Inteview Bootcamp: Algorithms + Data Structures](h
 ##### int reverse
 
 - `Math.sing(n)`: パラーメータの数値が＋の時 1 を、-の時に-1 を返す。
+
+##### maxChar
+
+```
+// 下記のような分岐もできる
+for(let char of str) {
+  chars[char] = chars[char] + 1 || 1;
+}
+```
