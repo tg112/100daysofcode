@@ -30,3 +30,7 @@ for(let char of str) {
   chars[char] = chars[char] + 1 || 1;
 }
 ```
+
+##### capitalize
+
+- `slice(start, end)`: 配列の開始位置から、終了位置までの値を取得する。
