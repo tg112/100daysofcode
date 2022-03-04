@@ -59,3 +59,10 @@ for(let val of string.replace(/[^\w]/g).toLowerCase()) {
   countVals[val] = countVals[val] + 1 || 1;
 }
 ```
+
+### Runtime Complexity
+アルゴリズムのパフォーマンスの計作
+どれくらいの処理力・処理時間が必要かの概算する
+
+[img](./screenshot/complexity.png)
+
